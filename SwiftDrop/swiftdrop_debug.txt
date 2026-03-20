@@ -1,0 +1,15 @@
+SwiftDrop path debug
+====================
+Chosen base dir : C:\Users\HopE\Documents\projects\file-sharing-app\SwiftDrop  (via GetModuleFileNameW)
+received/ dir   : C:\Users\HopE\Documents\projects\file-sharing-app\SwiftDrop\received
+_tmp/ dir       : C:\Users\HopE\Documents\projects\file-sharing-app\SwiftDrop\_tmp
+
+All candidates checked:
+  [GetModuleFileNameW] C:\Users\HopE\Documents\projects\file-sharing-app\SwiftDrop\SwiftDrop.exe  in_temp=False  exists=True
+  [sys.executable] C:\Users\HopE\AppData\Local\Temp\onefile_15664_134184580481312075\python.exe  in_temp=True  exists=False
+  [sys.argv[0]] C:\Users\HopE\Documents\projects\file-sharing-app\SwiftDrop\SwiftDrop.exe  in_temp=False  exists=True
+  [__file__] C:\Users\HopE\AppData\Local\Temp\onefile_15664_134184580481312075\peer.py  in_temp=True  exists=False
+
+sys.platform : win32
+sys.frozen   : not set
+__compiled__ : False
